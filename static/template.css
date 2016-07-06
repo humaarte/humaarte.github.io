@@ -36,6 +36,11 @@ box-sizing:border-box;
 	font-size: 11px;
 	opacity: 0.5
 }
+.cortain a{
+	display: inline-block;
+	color: #fff;
+	opacity: 0.5
+}
 .padding{
 	padding: 100px;
 }
