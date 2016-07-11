@@ -574,6 +574,7 @@ footer td a:hover{
 	color: #fff;
 	padding: 30px;
 	text-align: center;
+	width: 100%;
 }
 
 .tienda h3{
@@ -584,9 +585,11 @@ footer td a:hover{
 
 .coleccion{
 	background: #fff;
+	vertical-align: top;
 	display: inline-block;
 	border-radius: 3px;
 	padding: 10px;
+	margin: 10px;
 }
 
 .nosotros{
