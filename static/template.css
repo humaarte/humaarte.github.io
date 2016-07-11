@@ -39,7 +39,14 @@ box-sizing:border-box;
 .cortain a{
 	display: inline-block;
 	color: #fff;
-	opacity: 0.5
+	opacity: 0.5;
+	padding: 5px;
+	background: rgba(255,255,255,0.2);
+	border-radius: 3px;
+	opacity: 0.8;
+}
+.cortain a:hover{
+	opacity: 1;
 }
 .padding{
 	padding: 100px;
@@ -138,9 +145,9 @@ h2{
 }
 
 .action{
-	background: #E91E63;
+	background: #E91E63!important;
 	color: #fff;
-	padding: 20px 50px;
+	padding: 20px 50px!important;
 	display: inline-block;
 	margin: 20px auto;
 	border-radius: 3px;
@@ -590,4 +597,23 @@ footer td a:hover{
 	line-height: 1.5;
 	font-size: 20px;
 	font-weight: bold;
+}
+.social{
+	background: #fff;
+	display: table;
+	margin: 0 auto;
+	padding: 10px;
+	border-radius: 3px;
+	text-align: center;
+}
+.plugs{
+	text-align: center;
+	background: blueviolet;
+	width: 100%;
+	padding-bottom: 50px;
+}
+.plugs td{
+	background: #fff;
+	width: 50%;
+
 }
