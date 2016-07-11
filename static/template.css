@@ -138,7 +138,7 @@ h2{
 }
 
 .action{
-	background: #f46336;
+	background: #E91E63;
 	color: #fff;
 	padding: 20px 50px;
 	display: inline-block;
@@ -560,4 +560,34 @@ footer td a:hover{
 	font-size: 33px;
 	display: block;
 	padding: 20px;
+}
+
+.tienda{
+	background: #8f4cf7;
+	color: #fff;
+	padding: 30px;
+	text-align: center;
+}
+
+.tienda h3{
+	font-size: 30px;
+	text-transform: uppercase;
+	padding: 30px 0;
+}
+
+.coleccion{
+	background: #fff;
+	display: inline-block;
+	border-radius: 3px;
+	padding: 10px;
+}
+
+.nosotros{
+	background: #fff;
+	color: blueviolet;
+	padding: 60px;
+	text-align: center;
+	line-height: 1.5;
+	font-size: 20px;
+	font-weight: bold;
 }
