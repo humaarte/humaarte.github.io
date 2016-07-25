@@ -150,7 +150,7 @@ box-sizing:border-box;
 .glass{
 	width: 100%;
 	height: 100%;
-	background: rgb(0, 173, 255);
+	background: rgba(19, 6, 2, 0.42);
 }
 
 .portraid-content{
@@ -359,7 +359,7 @@ box-sizing:border-box;
 	color: blueviolet;
 }
 .hechoEnEcuador{
-	width: 240px;
+	width: 0;
 	border-radius: 3px;
 }
 
