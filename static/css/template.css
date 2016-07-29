@@ -142,7 +142,7 @@ box-sizing:border-box;
 }
 .universe{
 	margin-right: 360px;
-	background: #333 url(../../media/backs/01.jpg) no-repeat center center;
+	background: #333;
 	background-size: auto 100%;
 	min-height: 100%;
 	opacity: 1;
@@ -150,7 +150,7 @@ box-sizing:border-box;
 .glass{
 	width: 100%;
 	height: 100%;
-	background: rgba(19, 6, 2, 0.42);
+	background: #009688;
 }
 
 .portraid-content{
